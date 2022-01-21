@@ -1,0 +1,9 @@
+.produtos {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.nome {
+  margin: 0.5rem 0;
+}
